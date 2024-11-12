@@ -1,0 +1,9 @@
+.under{
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;
+}
+.disregard{
+    text-decoration: line-through;
+}

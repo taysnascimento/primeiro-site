@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+body{
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+h1, h2{
+    padding-left: 5%;
+    color: firebrick;
+}
+
+.acima{
+    position: relative;
+    display: inline-block;
+}
+
+.acima img{
+    width: 100%;
+    height: auto;
+}
+
+.texto{
+    display: flex;
+    flex-direction: column;
+    /* position: relative; */
+    top: 20%;
+    left: 50%;
+    /* transform: translate(-50%, -180%); */
+    text-shadow:2px 1px  #000000;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    align-items: center ;
+    justify-content: space-between;
+    gap: 100px;
+    padding: 20px 0;
+    align-items: center;
+    height: 50px;
+}
+
+main{
+    display: flex;
+}
+.buscar{
+    border-radius: 7px;
+    width: 200px;
+    height: 20px;
+    padding:1px;
+    font-size:10px;
+    border-radius: 5px;
+    background-color: #302d2d;
+}
+
+.menubusca ul, .menubusca{
+    display: flex;
+    flex-direction: row;
+    padding-right: 3%;
+    gap: 10px;
+}
+
+.botoes{
+    display: flex;
+    text-align: center;
+    gap: 10px;
+}
+
+.botoes input, .botao{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    border-color: #FFFFFF;
+    background-color: black;
+    color: #FFFFFF;
+    box-shadow: none;
+    overflow: auto;
+    border: 1px solid #FFFFFF;
+}
+.img-container{
+    display: flex;
+    gap: 5px;
+}
+
+.img-abaixo{
+    display: flex;
+    gap: 5px;
+}
+.img-abaixo{
+    width: 10px;
+    height: auto;
+}
+
+.menu-busca{
+    display: flex;
+    
+}
+body div img{
+    width:"200px";
+    height:"250px"
+}
+.container-img{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.img-container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 250px;
+    flex-wrap: wrap;
+    border-radius: 50px;
+    margin-bottom: 30px;
+}
+img{
+    border-radius: 7px;
+}
+.recentes{
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+.ver-mais{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ver{
+    width: 80px;
+    height: 20px;
+    padding: 1px;
+    font-size: 13px;
+    border-radius: 5px;
+    background-color: #302d2d;
+    color: white;
+    
+}
+footer{
+    text-align: center;
+}

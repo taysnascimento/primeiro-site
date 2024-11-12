@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Readme.txt</title>
+</head>
+<body>
+    <head>
+        <h1>Site Séries/ Filmes</h1>
+        <p>Este É um site de Filmes e Séries onde os usuários podem navegar,pesquisar e visualizar informações sobre os filmes e séries, como sinopse, trailers, elenco e ultimos lansamentos. E adicionalos a uma  lista de favoritos.</p>
+        <h2>Descrição do Site</h2>
+        <p>Este projeto e um site desenvolvido para permitir que os usuários possam acessar multiplas informaçoes sobre diversos filmes e séries dentro de um mesmo site. Ele pode ser acessado pela seguinte URL digitada no navegador (http://127.0.0.1:5500/Index.html) 
+        </p>
+    </head>
+    <main>
+        <h2>Funcionalidades</h2>
+        <ul>
+            <li>Listagem de filmes e séries atualizadas</li>
+            <li>Exibição de detalhes de cada filme e série</li>
+            <li>pesquisa por titulos e categori.</li>
+            <li>exibição de traileres e sinopse de cada filme e série</li>
+            <li>menu de listagem com filmese séries favoritos</li>
+        </ul>
+        <br>
+        <h2>Tecnologias Utilizadas</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>Css</li>
+            <li>Github</li>
+        </ul>
+        <br>
+        <h2>Como Acessar o Site </h2>
+        <ol>
+            <li>Digite a seguinte URL em seu navegador (http://127.0.0.1:5500/Index.html).</li>
+            <li>Ao abrir a página inicial do site escolha um dos manus acima.</li>
+            <li>Escolha a categoria ou digite o titulo que deseja.</li>
+            <li>Ao digitar o que deseja, o usúario sera direcionado a uma nova tela do site.</li>
+            <li>esta nova tela do site vai conter, filme/ série que foi escolhido, sinopse, classificação e titulos realacionados.</li>
+            <li>Agora e só desfutar da sua escolha, e continuar explorando o que o site tem a lhe oferecer.
+            </li>
+        </ol>
+        <h2>Pré visualização da página</h2>
+        <h4>Página Inicial</h4>
+        <img src="../Fotos-site/Captura de Tela (13).png" alt="foto1">
+        <img src="../Fotos-site/Captura de Tela (14).png" alt="foto2">
+        <img src="../Fotos-site/Captura de Tela (15).png" alt="foto3">
+    </main>
